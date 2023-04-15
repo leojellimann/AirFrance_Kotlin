@@ -9,6 +9,7 @@ Indeed, before taking off, each pilot has to check in all information related to
 
 Thanks to this app, they are now able to select the aircraft they use and fill up all these information before their flight.
 They can also know how much the flight costs per hour for the company depending on the plane they take off with.
+All the information available in the app were getting from calls to a Firebase database.
 
 I built two page in order to discover the navigation between different screens, even if there are no datas on the second page.
 
